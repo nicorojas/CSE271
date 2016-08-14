@@ -1,0 +1,6 @@
+AppointmentBook [ description = dentist, date = 01-20-2016, type = onetime ]
+AppointmentBook [ description = class, date = 09-02-2011, type = monthly ]
+AppointmentBook [ description = gym, date = 01-21-2013, type = daily ]
+AppointmentBook [ description = car_wash, date = 07-01-2016, type = monthly ]
+AppointmentBook [ description = drive_to_airport, date = 01-20-2016, type = onetime ]
+AppointmentBook [ description = pick_up_laundry, date = 04-16-2016, type = onetime ]
